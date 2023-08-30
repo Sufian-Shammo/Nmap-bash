@@ -7,7 +7,7 @@ echo -e "${orange}"
 
 echo "----------------------------------------------------------------------"
 echo ""
-echo -e " ${cyan}[+] Nmap Script ||  Created by Sadnan Sakin ||"
+echo -e " ${cyan}[+] Nmap Script ||  Created by Sufian ||"
 echo -e "${orange}"
 echo "----------------------------------------------------------------------"
 echo ""
